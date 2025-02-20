@@ -8,7 +8,7 @@ double price;
 };
 struct Book myBook;
 strcpy (myBook.title," The catcher in the rye");
-strcpy (myBook.author,"J,D saliger");
+strcpy (myBook.author,"J.D.Salinger");
 myBook.price=12.99;
 printf("Book title: %s\n",myBook.title);
 printf("author:$\n",myBook.author);
